@@ -19,5 +19,5 @@
 
 > ### [UScrollBox 안에 버튼을 배치했을 때 드래그 스크롤이 안 되는 이유](./scrollbox-button-drag.md)  
 > Slate 이벤트 버블링과 FReply, PreciseClick이 드래그 스크롤을 가능하게 하는 원리
-> > #### [터치와 마우스 입력 처리 차이](./scrollbox-button-drag/touch-vs-mouse.md)  
+> > #### [터치와 마우스 입력 처리 차이](./scrollbox-touch-vs-mouse.md)  
 > > OnPreviewMouseButtonDown(Tunnel)과 OnMouseButtonDown(Bubble)의 차이, 터치 전용 변수들
