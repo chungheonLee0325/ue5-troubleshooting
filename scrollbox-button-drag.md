@@ -426,7 +426,7 @@ Event Construct
 
 SScrollBox는 이 함수에서 **터치 입력에 대해서만** 초기화를 수행한다. 마우스와 터치의 처리 방식이 꽤 다른데, 이 부분은 별도 문서로 정리했다.
 
-→ [UScrollBox의 터치와 마우스 입력 처리 차이]((./scrollbox-touch-vs-mouse.md)
+→ [UScrollBox의 터치와 마우스 입력 처리 차이](./scrollbox-touch-vs-mouse.md)
 
 ---
 
